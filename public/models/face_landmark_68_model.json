@@ -1,0 +1,11 @@
+{
+  "modelTopology": {
+    "class_name": "Model",
+    "config": {
+      "name": "face_landmark_68_model",
+      "layers": []
+    }
+  },
+  "weightsManifest": []
+}
+

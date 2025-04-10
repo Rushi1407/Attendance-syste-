@@ -1,0 +1,11 @@
+{
+  "modelTopology": {
+    "class_name": "Model",
+    "config": {
+      "name": "face_recognition_model",
+      "layers": []
+    }
+  },
+  "weightsManifest": []
+}
+

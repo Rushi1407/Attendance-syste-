@@ -1,0 +1,11 @@
+{
+  "modelTopology": {
+    "class_name": "Model",
+    "config": {
+      "name": "ssd_mobilenetv1_model",
+      "layers": []
+    }
+  },
+  "weightsManifest": []
+}
+
